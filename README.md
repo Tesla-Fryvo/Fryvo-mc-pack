@@ -11,7 +11,7 @@ I do not claim ownership of any individual mods included in this pack. All right
 <table>
   <tr>
     <td><a href="README.md">📖 README</a></td>
-    <td><b>📜 CREDITS (Current Page)</b></td>
+    <td><b href="CREDITS.md"> 📜 CREDIT</b></td>
     <td><a href="LICENSE">⚖️ GPL License</a></td>
   </tr>
 </table>
