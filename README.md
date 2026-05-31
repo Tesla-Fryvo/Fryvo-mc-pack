@@ -15,21 +15,15 @@ minecraft 1.18.2 fabric
 
 ---
 
-# Credits & Attribution
-
-This modpack is a carefully curated compilation of individual modifications designed to enhance performance, UI capabilities, and technical gameplay for Minecraft 1.18.2.
 
 ## ⚖️ Intellectual Property & Ownership Disclaimer
 
-* **No Ownership Claimed:** The author of this modpack does not claim any intellectual property, code ownership, or copyright over the individual modifications, libraries, or assets included herein.
-* **Full Authorial Credit:** All credit, rights, and original licenses belong exclusively to the respective mod developers and authors.
-* **Scope of Work:** The modpack creator is solely responsible for compilation, configuration tuning, compatibility testing, and structural assembly.
+* **No Ownership Claimed:** i did not claim any intellectual property, code ownership, or copyright over the individual modifications, libraries, or assets included herein.
+* **Full Authorial Credit:** All credit, rights, and original licenses belong exclusively to the respective mod developers and authors
 
 ---
 
 ## 📦 Mod Attribution List
-
-Below is a comprehensive directory of all modifications contained within this package, credited to their original authors.
 
 | Modification Name | Developer / Author | Purpose & Core Category |
 | :--- | :--- | :--- |
@@ -71,6 +65,3 @@ Below is a comprehensive directory of all modifications contained within this pa
 | **Xaero's World Map** | xaero96 | Full-screen Explored Terrain Map |
 
 ---
-
-## 🛠️ Licensing Note
-Many modifications within this list are licensed under open-source agreements (such as the MIT License, LGPL, or GPL). For specific legal terms regarding individual files, please refer to their respective internal manifests or official code repositories. For modpack distribution rights and configurations, see the adjacent `LICENSE` file.
