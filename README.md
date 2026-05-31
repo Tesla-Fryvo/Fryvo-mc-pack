@@ -23,7 +23,7 @@ minecraft 1.18.2 fabric
 
 ---
 
-## 📦 Mod Attribution List
+## Mod Attribution List
 
 | Modification Name | Developer / Author | Purpose & Core Category |
 | :--- | :--- | :--- |
